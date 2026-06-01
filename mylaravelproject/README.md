@@ -96,13 +96,15 @@ Visit: `http://localhost:8000`
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](https://via.placeholder.com/800x400?text=Student+Dashboard)
+![Dashboard](screenshots/dashboard.png)
 
-### Add Student
-![Add Student](https://via.placeholder.com/800x400?text=Add+Student+Form)
+### Add Student Form
+![Add Student](screenshots/add-student.png)
 
-### Edit Student
-![Edit Student](https://via.placeholder.com/800x400?text=Edit+Student+Form)
+### Edit Student Form
+![Edit Student](screenshots/edit-student.png)
+
+> **Note:** To add screenshots, create a `screenshots` folder and add your images there.
 
 ## 🚀 Usage
 
